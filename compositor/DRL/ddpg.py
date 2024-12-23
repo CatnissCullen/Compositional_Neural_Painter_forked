@@ -10,7 +10,7 @@ from DRL.rpm import rpm
 from DRL.actor import *
 from DRL.critic import *
 from DRL.wgan import *
-from utils.util import *
+from compositor.utils.util import *
 from DRL.loss import *
 from Renderer.network import *
 from torchvision import transforms
